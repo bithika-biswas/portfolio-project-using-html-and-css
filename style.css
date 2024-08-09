@@ -1,0 +1,72 @@
+.section{
+    width: 100%;
+    height: 100vh;
+    background-image: url(blue-wallpaper-7240665_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.container{
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 100px;
+}
+.content-section{
+    float: left;
+    width: 55%;
+}
+.image-section{
+    float: right;
+    width: 36%;
+    margin-top: -33px;
+}
+.image-section img{
+    width: 100%;
+    height: 50%;
+    border-radius: 44%;
+}
+.title{
+    text-transform: uppercase;
+    font-size: 24px;
+    color: beige;
+}
+.content h3{
+    font-family:"Playwrite IN", cursive ;
+    font-size: 33px;
+    margin-top: 26px;
+    color: rgb(247, 243, 243);
+}
+.content p{
+    margin-top: 10px;
+    font-family:"Playwrite IN", cursive;
+    font-size: 25px;
+    line-height: 1.8;
+    color: rgb(248, 245, 245);
+}
+.button{
+    margin-top: 24px;
+}
+.button a{
+    background-color: aliceblue;
+    border-radius: 24px;
+    padding: 9px 40px;
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    letter-spacing: 1.5px;
+    margin-top: 24px;
+}
+.social{
+    margin-top: 30px;
+    
+}
+.social a{
+    font-size: 37px;
+    color: brown;
+    padding: 5px 6px;
+
+}
+.social a:hover{
+    color: bisque;
+}
